@@ -1,0 +1,31 @@
+University,Name,CS Ranking,National Ranking,Acceptance Rate,Tuition Fees,Location,School Type
+MIT,1,5,8%,"$ 49892","Cambridge MA",Private,
+SU,2,5,5%,"$ 49617","Stanford CA",Private
+CMU,3,25,22%,"$ 53910","Pittsburgh PA",Private
+HU,4,2,5%,"$ 48949","Cambridge MA",Private
+CIT,5,10,8%,"$ 49908","Pasadena CA",Private
+YU,6,3,6%,"$ 51400","New Haven CT",Private
+RU,7,14,15%,"$ 45608","Houston TX",Private
+GIT,8,34,26%,"$ 33014","Atlanta GA",Private
+USC,9,21,17%,"$ 54259","Los Angeles CA",Private
+UP,10,8,9%,"$ 53534","Philadelphia PA",Private
+VU,11,14,11%,"$ 47664","Nashville TN",Private
+BU,12,14,9%,"$ 53419","Providence RI",Private
+CU,13,5,7%,"$ 57208","New York NY",Private
+UCB,14,21,17%,"$ 42112","Berkeley CA",Public
+HMC,15,13%,"$ 54886","Claremont CA",Private
+DC,16,11,11%,"$ 52950","Hanover NH",Private
+UIUC,17,52,60%,"$ 31988","Champaign IL",Public
+CorU,18,14,14%,"$ 52853","Ithaca NY",Private
+UC,19,3,8%,"$ 54825","Chicago IL",Private
+UMAA,20,28,29%,"$ 47476","Ann Arbor MI",Public
+UCLA,21,21,18%,"$ 41270","Los Angeles CA",Public
+WUSL,22,18,17%,"$ 51533","St. Louis MO",Private
+DU,23,9,11%    ,"$ 53744","Durham, NC",Private
+RPI,24,42,44%,"$ 52305","Troy NY",Private
+UTA,25,56,40%,"$ 35766","Austin TX",Public
+PC,26,9%,"$ 51075","Claremont CA",Private
+TU,27,29,14%,"$ 54318","Medford MA",Private
+NU,28,40,29%,"$ 49497","Boston MA",Private
+GU,29,20,17%,"$ 52300","Washington DC",Private
+NWU,30,11,11%,"$ 52678","Evanston IL",Private
